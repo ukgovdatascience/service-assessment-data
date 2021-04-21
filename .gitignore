@@ -6,6 +6,10 @@
 
 ### data ###
 
+data/*
+
+!data/.gitkeep
+
 *.csv
 *.csv.gz
 
